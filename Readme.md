@@ -6,7 +6,7 @@ This repository showcases my foundational skills in Data Science, AI, and AWS th
 
 For your convenience, I have organized my certifications into separate Google Drive folders to ensure easy access and maintain confidentiality. 
 
-1. **Overall Data Science Certifications:** [Link to your GitHub repository]  (This repository contains my overall certification document.)
+1. **Overall Data Science Certifications:** The overall certification document is located in the "Master Certification in Data Science With AI & AWS (OVERALL CERTIFICATION)" folder within this repository.
 
 To view detailed certifications for specific categories, please request access to the following Google Drive folders: 
 
