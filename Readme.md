@@ -21,5 +21,5 @@ To view these certifications, please request access to the corresponding Google 
 
 **Contact:**
 
-**Linkedin**:- [[LinkedIn Profile Link](www.linkedin.com/in/krishna-babu-72b291253)]
-**Email Address**:- [[Email Address](krishnababuofficial7@gmail.com)]
+**Linkedin**:- [[LinkedIn Profile Link krishna-babu](www.linkedin.com/in/krishna-babu-72b291253)]
+**Email Address**:- [[krishnababuofficial7@gmail.com](krishnababuofficial7@gmail.com)]
