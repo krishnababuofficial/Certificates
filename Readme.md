@@ -13,7 +13,7 @@ To view detailed certifications for specific categories, please request access t
 2. **IBM Certifications:** [[Link to "PY IBM CERTIFICATION" Google Drive folder](https://drive.google.com/drive/folders/1O9OZPC4zjGYsxxGNYYd2zAfhQ3_lOeZg?usp=sharing)]
 3. **Machine Learning & Deep Learning:** [[Link to folder containing ML, DL certifications](https://drive.google.com/drive/folders/1wTPb2UFdDOK3ilUOLD0oIpErJpNNbVA_?usp=sharing)]
 4. **Natural Language Processing & Computer Vision:** [[Link to folder containing NLP, CV certifications](https://drive.google.com/drive/folders/1wTPb2UFdDOK3ilUOLD0oIpErJpNNbVA_?usp=sharing)]
-5. **Other Data Science Certifications:** [[Link to folder containing any remaining certificates](https://drive.google.com/drive/folders/1BtlpNkek-Z1_g4DcSNZcxpdYdwAYhQDo?usp=drive_link)] 
+5. **Other Data Science Certifications:** [[Link to folder containing other remaining certificates](https://drive.google.com/drive/folders/1BtlpNkek-Z1_g4DcSNZcxpdYdwAYhQDo?usp=drive_link)] 
 
 To view these certifications, please request access to the corresponding Google Drive folder. Your requests will be reviewed promptly to ensure the security and confidentiality of my credentials.
 
