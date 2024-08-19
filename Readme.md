@@ -1,10 +1,14 @@
 # Data_Science_Certifications_Krishna_Babu 
 
-This repository showcases my foundational skills in Data Science, AI, and AWS through a curated collection of my certifications. To ensure the security and privacy of my credentials, I have chosen to store the certificates in secure Google Drive folders with access restrictions.
+This repository showcases my foundational skills in Data Science, AI, and AWS through a curated collection of my certifications. To ensure the security and privacy of my credentials, I have chosen to store the certificates in secure way to balance sharing my achievements with protecting my privacy.
 
-**Access to Certifications:**
+**How to Access Certifications:**
+
+* **Resume:**  My resume, provides links to my certifications which are publicly accessible.
+* **GitHub Repository:** This repository serves as a showcase of my credentials. While I have chosen to restrict direct access to the certificates themselves on GitHub due to security concerns.
 
 For your convenience, I have organized my certifications into separate Google Drive folders to ensure easy access and maintain confidentiality. 
+
 
 1. **Overall Data Science Certifications:** The overall certification document is located in the "Master Certification in Data Science With AI & AWS (OVERALL CERTIFICATION)" folder within this repository.
 
