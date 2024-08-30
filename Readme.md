@@ -14,10 +14,10 @@ For your convenience, I have organized my certifications into separate Google Dr
 
 To view detailed certifications for specific categories, please request access to the following Google Drive folders: 
 
-2. **IBM Certifications:** [[Link to "PY IBM CERTIFICATION" Google Drive folder](https://drive.google.com/drive/folders/1O9OZPC4zjGYsxxGNYYd2zAfhQ3_lOeZg?usp=sharing)]
-3. **Machine Learning, Deep Learning, Natural Language Processing & Computer Vision:** [[Link to folder containing ML, DL, NLP, CV certifications](https://drive.google.com/drive/folders/1wTPb2UFdDOK3ilUOLD0oIpErJpNNbVA_?usp=sharing)]
-4. **Other Data Science Certifications:** [[Link to folder containing other remaining certificates](https://drive.google.com/drive/folders/1BtlpNkek-Z1_g4DcSNZcxpdYdwAYhQDo?usp=drive_link)] 
-5. **AWS Certified Cloud Practitioner:**  [[AWS Certified Cloud Practitioner](https://drive.google.com/drive/folders/1S-c40m6N7p54hE09RGB6t8bwxh9euTJe?usp=sharing)]
+2. **IBM Certifications:** [[Link to "PY IBM CERTIFICATION" Google Drive folder](https://drive.google.com/drive/folders/11CIfbucb0JOe_66HZz3mJMrcudXTqb8W?usp=sharing)]
+3. **Machine Learning, Deep Learning, Natural Language Processing & Computer Vision:** [[Link to folder containing ML, DL, NLP, CV certifications](https://drive.google.com/drive/folders/1FpbhM4TzH6-u2epcY35strMf_iRd7Zsf?usp=sharing)]
+4. **Other Data Science Certifications:** [[Link to folder containing other remaining certificates](https://drive.google.com/drive/folders/14yWzUiYvo58fYcw19og-tMqVq4JgjajA?usp=drive_link)] 
+5. **AWS Certified Cloud Practitioner:**  [[AWS Certified Cloud Practitioner](https://drive.google.com/drive/folders/16hOVSaszSufxdbU6x10SNN5Htot6rAk6?usp=sharing)]
 
 To view these certifications, please request access to the corresponding Google Drive folder. Your requests will be reviewed promptly to ensure the security and confidentiality of my credentials.
 
